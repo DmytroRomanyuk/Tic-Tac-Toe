@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-Realization of a simple game for two players using Python Tkinter and Random.
+Realization of a simple game for two players using Python.
 
 The code has 4 functions:
 
